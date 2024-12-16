@@ -9,8 +9,8 @@ The project involves analyzing a dataset for Uber rides in Bengaluru for one mon
 **Uber_Bookings.pbix**:  Visualizations like ride volume trends, booking status breakdowns, and revenue analysis.
 **Uber Booking Analysis.pdf**: This Pdf Consists of Entire Dash_board Screen_shots.
 # Key Queries and Insights
-In the **uber_sql_qeries_and_answsers.sql ** file you will find SQL queries designed to analyze bookings, cancellations, ratings, and revenue. and in **Uber_Bookings.pbix** file you will find Visualizations like ride volume trends, booking status breakdowns, and revenue analysis.
-#Technologies Used
-SQL(MY SQL)
-Data analysis techniques
+In the **uber_sql_qeries_and_answsers.sql** file you will find SQL queries designed to analyze bookings, cancellations, ratings, and revenue. and in **Uber_Bookings.pbix** file you will find Visualizations like ride volume trends, booking status breakdowns, and revenue analysis.
+# Technologies Used
+SQL(MY SQL), 
+Data analysis techniques, 
 Power BI
